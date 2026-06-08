@@ -163,9 +163,7 @@ Optimization performed using:
 * confusion_matrix
 * ConfusionMatrixDisplay
 
-### Model Persistence
 
-* pickle
 
 ---
 
